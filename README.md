@@ -124,7 +124,7 @@ Two pre-configured accounts are seeded to facilitate immediate testing and demo 
 
 ---
 
-## 📋 Evaluator Demo Script: Step-by-Step
+## 📋 Live Demo Script: Step-by-Step
 
 Follow this script during your live demonstration:
 
