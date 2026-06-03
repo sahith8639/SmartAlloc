@@ -169,3 +169,8 @@ Follow this script during your live demonstration:
 * **Auto-Seeding**: Seeds MongoDB with 100 historical telemetry points, warning settings, and users on first run so the dashboard displays outputs immediately.
 * **Node-Python Bridge**: Spawns Python scripts via child processes for model fitting and evaluation.
 * **Robust Fallback Design**: If the target system doesn't have Python or Scikit-Learn libraries, the system falls back to an internal Node-side rule engine, keeping pages active.
+
+---
+
+## 🛠️ Contributor
+* Pasupula Sahith Sai
