@@ -172,5 +172,5 @@ Follow this script during your live demonstration:
 
 ---
 
-## 🛠️ Contributor
+## 🧑‍💻 Contributor
 * Pasupula Sahith Sai
